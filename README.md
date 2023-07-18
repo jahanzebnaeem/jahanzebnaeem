@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jahanzeb Naeem
+# Hi there 👋 I'm JZ
 
 <!--
 **jahanzebnaeem/jahanzebnaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
